@@ -1,0 +1,53 @@
+<resources>
+    <string name="facebook_app_id">195052261153863</string>
+    <string name="fb_login_protocol_scheme">fb195052261153863</string>
+    <string name="app_name">Followers Counter</string>
+    <string name="Welcome">Welcome</string>
+    <string name="InstructionsCall">Used Facebook account should be the owner of the page which you want to get followers number for</string>
+    <string name="InternetError">ERROR: YOU MUST HAVE INTERNET ACCESS !!</string>
+    <string name="Hint">Facebook Page Link</string>
+    <string name="OK">Send</string>
+    <string name="LinkError">ERROR: ADD A VALID LINK !!</string>
+    <string name="Result">The number of followers for page</string>
+    <string name="is">is:\n</string>
+    <string name="WifiError">ERROR: NO WIFI NETWORK !!</string>
+    <string name="Title">Page Link</string>
+    <string name="PermissionsError">Permission Missing</string>
+    <string name="onCancel">You have to login to use this app !!</string>
+    <string name="ExpiredToken">Logout and login again !!</string>
+    <string name="UnknownError">Something went wrong !!</string>
+    <string name="DisplayError">CONNECTING TO DISPLAY FAILED !!</string>
+    <string name="Refresh">Fans count refreshed</string>
+    <string name="Send">Send</string>
+    <string name="every">Choose Time Interval</string>
+    <string name="AutomaticOn">Auto Refresh On</string>
+    <string name="AutomaticOff">Auto Refresh Off</string>
+    <string name="Manual">Manual refresh</string>
+    <string name="Automatic">Automatic Refresh</string>
+    <string name="AutomaticError">Enable Auto Refresh First</string>
+    <string name="SendOn">Sending On</string>
+    <string name="SendOff">Sending Off</string>
+    <string-array name="Interval">
+    <item>1 mins</item>
+    <item>5 mins</item>
+    <item>15 mins</item>
+    <item>30 mins</item>
+    <item>60 mins</item>
+    </string-array>
+
+    <string name="ShowCaseWelcomeTitle">Welcome</string>
+    <string name="ShowCaseWelcomeInfo">Thank you for using Followers Counter.\nLets\'s learn quickly how to use it.</string>
+    <string name="ShowCaseLoginTitle">Facebook Login</string>
+    <string name="ShowCaseLoginInfo">First login to your facebook account and grant needed permissions to get followers count.</string>
+    <string name="ShowCaseAddTitle">Add Page Link</string>
+    <string name="ShowCaseAddInfo">Copy your page link and paste it here.</string>
+    <string name="ShowCaseManualTitle">Refresh Manually</string>
+    <string name="ShowCaseManualInfo">Click to refresh followers any time.</string>
+    <string name="ShowCaseAutoTitle">Refresh Automatically</string>
+    <string name="ShowCaseSendInfo">If you bought the addon display you can enable sending.</string>
+    <string name="ShowCaseTimeTitle">Time Interval</string>
+    <string name="ShowCaseTimeInfo">choose how often should followers number be refreshed or send the numbers to screen.</string>
+    <string name="ShowCaseEndTitle">The End</string>
+    <string name="ShowCaseEndInfo">Thank you again and have fun :)</string>
+
+</resources>
